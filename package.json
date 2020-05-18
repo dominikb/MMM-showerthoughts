@@ -1,0 +1,29 @@
+{
+  "name": "mmm-showerthoughts",
+  "version": "1.0.0",
+  "description": "Module for MagicMirror to display /r/Showerthoughts on screen.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominikb/MMM-showerthoughts.git"
+  },
+  "main": "MMM-showerthoughts.js",
+  "scripts": {
+  },
+  "keywords": [
+    "Magic Mirror",
+    "Showerthoughts",
+    "Reddit"
+  ],
+  "author": "Dominik Bauernfeind",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0"
+  },
+  "contributors": [
+    "https://github.com/dominikb/MMM-showerthoughts/graphs/contributors"
+  ],
+  "bugs": {
+    "url": "https://github.com/dominikb/MMM-showerthoughts/issues"
+  }
+}
